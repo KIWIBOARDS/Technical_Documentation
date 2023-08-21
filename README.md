@@ -67,7 +67,7 @@ PyKiwiUtility Support libraies to Interact with GPIO,I2C,SPI,PWM...
 # Demos
 >## GPIO
 ### LED Light On
-![Gpio_LedOn](Documentaion/Gpio_LedOn.jpg)
+![Gpio_LedOn](Documentation/Gpio_LedOn.jpg)
 ### LED Light Off
 ![Gpio_LedOff](Documentaion/Gpio_LedOff.jpg)
 ### Voltage Measurement
