@@ -1,4 +1,4 @@
-# Welcome to KiwiBoard Developer home
+# Welcome to KIWI board Developer Home
 
 ## How to Use :
 
@@ -22,12 +22,12 @@
 
 
 
-# Kiwi Framework Introduction
+# KIWI board Framework Introduction
 As technology progresses, the CPU packaging is becoming more mature and smaller thanks to the evolution of chip technology. The market for IoT and Edge Computing is also expanding as a result of technological advancements.
 
 Apart from existing industrial customers, various research institutions such as schools, enterprises, and workstations are investing a significant amount of budget in purchasing low-priced, miniaturized motherboards for experiments and projects. These experiments and projects allow students to try out innovative ideas and accumulate technical expertise, leading to collaboration with enterprises and publications.
 
-KIWIboard offers a highly efficient, miniaturized motherboard that meets the market demand for IoT and Edge Computing and attracts the interest of schools and makers. It is also compatible with Raspberry Pi peripherals, allowing users to upgrade seamlessly. Furthermore, it supports three different operating systems, providing students and makers with unique experiences that inspire creative ideas and realization.
+KIWI board offers a highly efficient, miniaturized motherboard that meets the market demand for IoT and Edge Computing and attracts the interest of schools and makers. It is also compatible with Raspberry Pi peripherals, allowing users to upgrade seamlessly. Furthermore, it supports three different operating systems, providing students and makers with unique experiences that inspire creative ideas and realization.
 
 To help students and makers tackle technical issues encountered in software development, KIWIboard provides simple middleware sample code, allowing developers to get started and use the platform more quickly, significantly reducing development time.
 
