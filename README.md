@@ -37,7 +37,7 @@ To help students and makers tackle technical issues encountered in software deve
 
 # Hardware Architecture
 >## Pin Define
-![GPIO](Documentaion/GPIO.jpg)
+![GPIO](Technical_Documentation/Documentation/GPIO.jpg)
 
 >## Board Layout
 ![image-1.png](https://www.axiomtek.com/Download/Photo/kiwi310.jpg)
