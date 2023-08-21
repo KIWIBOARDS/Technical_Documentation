@@ -33,7 +33,7 @@ To help students and makers tackle technical issues encountered in software deve
 
 
 # Software Architecture
-![SWArchitecture](Documentaion/SWArchitecture.png)
+![SWArchitecture](D:\Carina Vallejo\FAE\KIWIBoard\TAB KAO\SWArchitecture.png)
 
 # Hardware Architecture
 >## Pin Define
