@@ -44,7 +44,7 @@ To help students and makers tackle technical issues encountered in software deve
 ![image-1.png](Documentation/tiniest.jpg)
 
 # Implemeted Access function
-PyKiwiUtility Support libraies to Interact with GPIO,I2C,SPI,PWM...
+PyKiwiUtility Support libraRies to Interact with GPIO,I2C,SPI,PWM...
 
 ```python
   from PyKiwiUtility import PyKiwi
@@ -68,11 +68,11 @@ PyKiwiUtility Support libraies to Interact with GPIO,I2C,SPI,PWM...
 # Demos
 >## GPIO
 ### LED Light On
-![Gpio_LedOn](Documentaion/Gpio_LedOn.jpg)
+![Gpio_LedOn](Documentation/Gpio_LedOn.jpg)
 ### LED Light Off
-![Gpio_LedOff](Documentaion/Gpio_LedOff.jpg)
+![Gpio_LedOff](Documentation/Gpio_LedOff.jpg)
 ### Voltage Measurement
-![Gpio_Vcc](Documentaion/Gpio_Vcc.jpg)
+![Gpio_Vcc](Documentation/Gpio_Vcc.jpg)
 
 # Reference
 
