@@ -1,4 +1,4 @@
-# Welcome to KiwiBoard Developer home
+# Welcome to KIWIBoard Developer home
 
 ## How to Use :
 
