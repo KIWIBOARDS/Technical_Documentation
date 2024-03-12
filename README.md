@@ -38,10 +38,10 @@ To help students and makers tackle technical issues encountered in software deve
 
 # Hardware Architecture
 >## Pin Define
-![GPIO](Documentaion/GPIO.jpg)
+![GPIO](Documentation/GPIO.jpg)
 
 >## Board Layout
-![image-1.png](https://www.axiomtek.com/Download/Photo/kiwi310.jpg)
+![image-1.png](Documentation/tiniest.jpg)
 
 # Implemeted Access function
 PyKiwiUtility Support libraies to Interact with GPIO,I2C,SPI,PWM...
